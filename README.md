@@ -28,7 +28,7 @@ Use this syntax to verify they have been set to the correct values.
 echo $MONGO_DEV_HELPER_USERNAME
 ```
 
-1.- Pull the image onto your machine from [Docker Hub](https://hub.docker.com/_/mongo?tab=tags) by running:
+1.- Pull an official mongo image from [Docker Hub](https://hub.docker.com/_/mongo?tab=tags) by running:
 ```
 docker pull mongo:148e744ca319
 ```
